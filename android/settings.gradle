@@ -1,0 +1,3 @@
+rootProject.name = 'kimlik6'
+
+include ':app'
